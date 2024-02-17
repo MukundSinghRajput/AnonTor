@@ -24,4 +24,4 @@ bash install.sh
 
 ## Credits
 
-- Mukund
+[Mukund](t.me/ItzMukund)
