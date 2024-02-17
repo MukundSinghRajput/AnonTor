@@ -8,6 +8,10 @@ Anonymize your IP address by masking it be **Anon** to the world with **AnonTor*
 
 ## Installation
 
+- Enter the sudo mode
+```
+sudo su
+```
 - Run the following command to make the script executable:
 ```
 chmod +x install.sh
@@ -16,3 +20,8 @@ chmod +x install.sh
 ```
 bash install.sh
 ```
+> It's done just type ant on terminal
+
+## Credits
+
+- Mukund
